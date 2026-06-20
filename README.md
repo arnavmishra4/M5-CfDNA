@@ -290,7 +290,7 @@ m5_cfdna/
 
 **NeuroSight Pipeline**
 
-[M1 — 3D Res-U-Net](../m1_segmentation) · [M2 — Fisher-KPP PINN](../m2_pinn) · [M3 — Progression Classifier](../m3_classifier) · [M4 — Clinical RAG](../m4_rag) · **M5 — cfDNA Classifier (this repo)**
+[M1 — 3D Res-U-Net](https://github.com/arnavmishra4/M1-Segmentation) · [M2 — Fisher-KPP PINN](https://github.com/arnavmishra4/M2_PINN) · [M3 — Progression Classifier](https://github.com/arnavmishra4/M3-Classifier-) · [M4 — Clinical RAG](https://github.com/arnavmishra4/M4-Report-LLM-RAG-) · **M5 — cfDNA Classifier (this repo)**
 
 *Orchestrated by the NeuroBio Agent*
 
